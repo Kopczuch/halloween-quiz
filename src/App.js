@@ -57,11 +57,8 @@ function App() {
     `}
   </style>
       <Router>
-        <Routes>
-          {/* Main route shows all categories */}
+        <Routes basename="/halloween-quiz">
           <Route path="/" element={<CategoriesPage questions={selectedQuestions} />} />
-
-          {/* In future, you can add more routes like /about, /score, etc. */}
         </Routes>
       </Router>
     </div>
