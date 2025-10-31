@@ -1,0 +1,822 @@
+{
+	"Stwory i upiory": {
+		"100": [
+			{
+				"question": "Jak nazywa się potwór, który wysysa krew z ludzi?",
+				"answer": "Wampir"
+			},
+			{
+				"question": "Jakim stworzeniem był Frankenstein?",
+				"answer": "Potworem stworzonym z ciał zmarłych"
+			},
+			{
+				"question": "Jak nazywa się wilkołak w nocy?",
+				"answer": "Likantrop"
+			},
+			{
+				"question": "Jakie stworzenie straszyło w lochach Hogwartu w drugim tomie o Harrym Potterze?",
+				"answer": "Bazyliszek"
+			},
+			{
+				"question": "Jakim stworzeniem był Dracula?",
+				"answer": "Wampirem"
+			},
+			{
+				"question": "Jak nazywa się stwór wychodzący z ciemnych lasów i przerażający wędrowców?",
+				"answer": "Leszy"
+			},
+			{
+				"question": "Jakie stworzenie boi się srebra?",
+				"answer": "Wilkołak"
+			},
+			{
+				"question": "Jak nazywa się ożywione ciało zmarłego?",
+				"answer": "Zombie"
+			},
+			{
+				"question": "Jakim stworzeniem był Nosferatu?",
+				"answer": "Wampirem"
+			}
+		],
+		"200": [
+			{
+				"question": "Jak nazywa się egipski trup owinięty bandażami?",
+				"answer": "Mumia"
+			},
+			{
+				"question": "Jakie stworzenie zamienia się w nietoperza?",
+				"answer": "Wampir"
+			},
+			{
+				"question": "Jak nazywa się demon kuszący kobiety w snach?",
+				"answer": "Incubus"
+			},
+			{
+				"question": "Jak nazywa się słowiański demon wodny?",
+				"answer": "Utopiec"
+			},
+			{
+				"question": "Jak nazywa się duch, który straszy w zamkach?",
+				"answer": "Zjawa"
+			},
+			{
+				"question": "Jakim stworzeniem był Smaug?",
+				"answer": "Smokiem"
+			},
+			{
+				"question": "Jakie stworzenie porusza się powoli i szuka mózgów?",
+				"answer": "Zombie"
+			},
+			{
+				"question": "Jak nazywa się potwór z Loch Ness?",
+				"answer": "Nessie"
+			},
+			{
+				"question": "Jakie stworzenie ma wężową głowę i spojrzeniem zamienia w kamień?",
+				"answer": "Meduza"
+			},
+			{
+				"question": "Jakim stworzeniem był Gollum po przemianie?",
+				"answer": "Stworzeniem podobnym do goblina"
+			}
+		],
+		"300": [
+			{
+				"question": "Jak nazywa się słowiański demon nocny siadający na klatce piersiowej śpiących?",
+				"answer": "Mora"
+			},
+			{
+				"question": "Jakie stworzenie powstaje z ducha kobiety, która zmarła tragicznie?",
+				"answer": "Strzyga"
+			},
+			{
+				"question": "Jak nazywa się japoński duch z długimi czarnymi włosami?",
+				"answer": "Onryō"
+			},
+			{
+				"question": "Jakim stworzeniem był Wendigo?",
+				"answer": "Kanibalicznym demonem"
+			},
+			{
+				"question": "Jakie stworzenie w mitologii słowiańskiej miało ogon i chodziło z łańcuchem?",
+				"answer": "Diabeł"
+			},
+			{
+				"question": "Jak nazywa się potwór z mitologii greckiej o trzech głowach?",
+				"answer": "Cerber"
+			},
+			{
+				"question": "Jakie stworzenie ma jedno oko pośrodku czoła?",
+				"answer": "Cyklop"
+			},
+			{
+				"question": "Jakie stworzenie wampiryczne pochodzi z Ameryki Południowej?",
+				"answer": "Chupacabra"
+			},
+			{
+				"question": "Jakie stworzenie ma końskie nogi i ludzką górną część ciała?",
+				"answer": "Centaur"
+			}
+		],
+		"400": [
+			{
+				"question": "Jak nazywa się wampir z mitologii słowiańskiej?",
+				"answer": "Strzygoń"
+			},
+			{
+				"question": "Jakie stworzenie zjada dzieci w folklorze meksykańskim?",
+				"answer": "El Cucuy"
+			},
+			{
+				"question": "Jakie imię nosi demon opętania z filmu Egzorcysta?",
+				"answer": "Pazuzu"
+			},
+			{
+				"question": "Jakie stworzenie było inspiracją dla Frankensteina?",
+				"answer": "Golem"
+			},
+			{
+				"question": "Jakie stworzenie w japońskim folklorze liże łzy z twarzy śpiących?",
+				"answer": "Akaname"
+			},
+			{
+				"question": "Jak nazywa się duch topielca w kulturze polskiej?",
+				"answer": "Utopiec"
+			},
+			{
+				"question": "Jakie stworzenie straszy w pustynnych burzach?",
+				"answer": "Dżin"
+			},
+			{
+				"question": "Jak nazywa się demon opętujący lalki?",
+				"answer": "Dybbuk"
+			},
+			{
+				"question": "Jak nazywa się smok o dziewięciu głowach z mitologii słowiańskiej?",
+				"answer": "Żmij"
+			}
+		],
+		"500": [
+			{
+				"question": "Jakie stworzenie pochodzi z legend skandynawskich i mieszka pod mostem?",
+				"answer": "Troll"
+			},
+			{
+				"question": "Jakie stworzenie zjada ludzi, by przejąć ich wspomnienia?",
+				"answer": "Wendigo"
+			},
+			{
+				"question": "Jakie stworzenie straszyło w Transylwanii?",
+				"answer": "Dracula"
+			},
+			{
+				"question": "Jakie stworzenie jest połączeniem lwa, kozy i węża?",
+				"answer": "Chimera"
+			},
+			{
+				"question": "Jakie stworzenie z mitologii słowiańskiej miało trzy serca?",
+				"answer": "Południca"
+			},
+			{
+				"question": "Jak nazywa się potwór z bagien w filmach grozy?",
+				"answer": "Bagienny potwór"
+			},
+			{
+				"question": "Jakie stworzenie jest symbolem zła w Biblii?",
+				"answer": "Szatan"
+			},
+			{
+				"question": "Jakie stworzenie wysysa krew przez cień ofiary?",
+				"answer": "Aswang"
+			},
+			{
+				"question": "Jakie stworzenie ma ludzkie ciało i głowę konia?",
+				"answer": "Tikbalang"
+			}
+		]
+	},
+	"Filmy i książki": {
+		"100": [
+			{
+				"question": "Jak nazywa się wampir z powieści Brama Stokera?",
+				"answer": "Dracula"
+			},
+			{
+				"question": "Jakie zwierzę towarzyszy czarownicom w filmach i bajkach?",
+				"answer": "Kot"
+			},
+			{
+				"question": "Jak ma na imię główna bohaterka filmu 'Krzyk'?",
+				"answer": "Sidney"
+			},
+			{
+				"question": "Jak nazywa się duch z serii filmów 'Obecność'?",
+				"answer": "Valak"
+			},
+			{
+				"question": "Jak ma na imię potwór z filmu 'Potwór z laguny Czarnej'?",
+				"answer": "Gill-man"
+			},
+			{
+				"question": "Jak nazywa się duch, który wychodzi z telewizora w filmie 'The Ring'?",
+				"answer": "Samara"
+			},
+			{
+				"question": "Jak nazywa się wampir grany przez Roberta Pattinsona w 'Zmierzchu'?",
+				"answer": "Edward Cullen"
+			}
+		],
+		"200": [
+			{
+				"question": "Jak nazywa się nawiedzony hotel z filmu 'Lśnienie'?",
+				"answer": "Overlook Hotel"
+			},
+			{
+				"question": "Jak brzmi słynne zdanie z 'Lśnienia': 'Here's Johnny!' — kto je wypowiada?",
+				"answer": "Jack Torrance"
+			},
+			{
+				"question": "Jak ma na imię dziewczynka opętana w filmie 'Egzorcysta'?",
+				"answer": "Regan"
+			},
+			{
+				"question": "Jak nazywa się autor powieści 'Frankenstein'?",
+				"answer": "Mary Shelley"
+			},
+			{
+				"question": "Jak nazywa się lalka, która terroryzuje rodzinę Perron w 'Annabelle'?",
+				"answer": "Annabelle"
+			},
+			{
+				"question": "Jak ma na imię klaun z filmu 'To'?",
+				"answer": "Pennywise"
+			},
+			{
+				"question": "Jak nazywa się film, w którym ludzie nie mogą wydać żadnego dźwięku?",
+				"answer": "Ciche miejsce"
+			},
+			{
+				"question": "Jak ma na imię główna bohaterka 'Carrie' Stephena Kinga?",
+				"answer": "Carrie White"
+			},
+			{
+				"question": "Jak nazywa się nawiedzony dom z filmu 'Amityville'?",
+				"answer": "Dom w Amityville"
+			},
+			{
+				"question": "Jak nazywa się seria filmów o lalkarzu tworzącym mordercze marionetki?",
+				"answer": "Puppet Master"
+			}
+		],
+		"300": [
+			{
+				"question": "Jak nazywa się fikcyjne miasteczko, w którym rozgrywa się akcja 'Stranger Things'?",
+				"answer": "Hawkins"
+			},
+			{
+				"question": "Jakie imię nosi główny bohater filmu 'Piła'?",
+				"answer": "John Kramer"
+			},
+			{
+				"question": "Jak nazywa się hotel, w którym Jack Nicholson traci rozum w 'Lśnieniu'?",
+				"answer": "Overlook"
+			},
+			{
+				"question": "Jak nazywa się książka, która przyzywa demony w 'Martwym złu'?",
+				"answer": "Necronomicon"
+			},
+			{
+				"question": "Jak nazywa się lalka z filmu 'Dead Silence'?",
+				"answer": "Mary Shaw"
+			},
+			{
+				"question": "Jak nazywa się autor książki 'Miasteczko Salem'?",
+				"answer": "Stephen King"
+			},
+			{
+				"question": "Jak nazywa się postać ducha z 'Obecności 2'?",
+				"answer": "Valak"
+			},
+			{
+				"question": "Jak nazywa się bohaterka filmu 'Zakonnica'?",
+				"answer": "Siostra Irene"
+			},
+			{
+				"question": "Jak nazywa się horror o klątwie japońskiego domu?",
+				"answer": "The Grudge"
+			},
+			{
+				"question": "Jakie miasto nawiedza Freddy Krueger?",
+				"answer": "Springwood"
+			}
+		],
+		"400": [
+			{
+				"question": "Jak nazywa się seria filmów, w której ludzie są zmuszani do okrutnych gier o życie?",
+				"answer": "Piła"
+			},
+			{
+				"question": "Jak nazywa się autor opowiadania 'Czarny kot'?",
+				"answer": "Edgar Allan Poe"
+			},
+			{
+				"question": "Jak ma na imię demon, który pojawia się po wypowiedzeniu jego imienia w lustrze?",
+				"answer": "Candyman"
+			},
+			{
+				"question": "Jakie imię nosi główny bohater powieści 'Dracula' Brama Stokera?",
+				"answer": "Jonathan Harker"
+			},
+			{
+				"question": "Jak nazywa się aktorka grająca Regan w 'Egzorcyście'?",
+				"answer": "Linda Blair"
+			},
+			{
+				"question": "Jak nazywa się film o grupie studentów, którzy odkrywają tajemniczy las w Maryland?",
+				"answer": "The Blair Witch Project"
+			},
+			{
+				"question": "Jak nazywa się książka, na której oparto film 'Doktor Sen'?",
+				"answer": "Doctor Sleep"
+			},
+			{
+				"question": "Jak nazywa się powieść o dziewczynie opętanej przez demona Pazuzu?",
+				"answer": "Egzorcysta"
+			},
+			{
+				"question": "Jak ma na imię zakonnica-demon z 'Obecności'?",
+				"answer": "Valak"
+			},
+			{
+				"question": "Jak nazywa się potwór z filmu 'Cloverfield'?",
+				"answer": "Nie ma imienia (Cloverfield Monster)"
+			}
+		],
+		"500": [
+			{
+				"question": "Jak nazywa się reżyser filmów 'Halloween' i 'Coś'?",
+				"answer": "John Carpenter"
+			},
+			{
+				"question": "Jakie nazwisko nosi pisarz, autor 'Lśnienia', 'Carrie' i 'To'?",
+				"answer": "Stephen King"
+			},
+			{
+				"question": "Jak nazywa się film, w którym dzieci w czerwonych pelerynach przynoszą zło do miasteczka?",
+				"answer": "Dzieci kukurydzy"
+			},
+			{
+				"question": "Jak nazywa się książka opowiadająca o morderczym hotele z nadprzyrodzonymi siłami?",
+				"answer": "Lśnienie"
+			},
+			{
+				"question": "Jakie imię nosi demon z 'Egzorcysty'?",
+				"answer": "Pazuzu"
+			},
+			{
+				"question": "Jak nazywa się pisarz, który stworzył postać Cthulhu?",
+				"answer": "H.P. Lovecraft"
+			},
+			{
+				"question": "Jakie imię nosi główny bohater filmu 'Nosferatu'?",
+				"answer": "Hrabia Orlok"
+			},
+			{
+				"question": "Jak nazywa się japoński film, który zapoczątkował popularność horrorów o klątwach?",
+				"answer": "Ringu"
+			},
+			{
+				"question": "Jak nazywa się książka, w której pojawia się klaun Pennywise?",
+				"answer": "To"
+			},
+			{
+				"question": "Jak nazywa się demon z filmu 'Insidious'?",
+				"answer": "Lipstick-Face Demon"
+			}
+		]
+	},
+	"Obyczaje i tradycje": {
+		"100": [
+			{
+				"question": "Z jakiego kraju wywodzi się Halloween?",
+				"answer": "Irlandia"
+			},
+			{
+				"question": "Jak nazywa się dzień po Halloween?",
+				"answer": "Dzień Wszystkich Świętych"
+			},
+			{
+				"question": "Jak po polsku nazywają się Dziady?",
+				"answer": "Święto zmarłych przodków"
+			},
+			{
+				"question": "Co dzieci wołają chodząc po domach w Halloween?",
+				"answer": "Cukierek albo psikus"
+			},
+			{
+				"question": "Jakim warzywem pierwotnie robiono latarnie przed Halloween?",
+				"answer": "Rzepą"
+			},
+			{
+				"question": "Jak nazywa się popularny symbol Halloween z dyni?",
+				"answer": "Jack-o'-lantern"
+			},
+			{
+				"question": "Kiedy obchodzimy Dzień Zaduszny?",
+				"answer": "2 listopada"
+			},
+			{
+				"question": "Jak nazywa się zwyczaj palenia ognisk w noc z 31 października?",
+				"answer": "Samhain"
+			},
+			{
+				"question": "Jak nazywa się noc z 30 kwietnia na 1 maja, uznawana za noc czarownic?",
+				"answer": "Noc Walpurgii"
+			},
+			{
+				"question": "Z jakiego kraju pochodzi zwyczaj przebierania się w Halloween?",
+				"answer": "Szkocja"
+			}
+		],
+		"200": [
+			{
+				"question": "Jak nazywa się celtyckie święto kończące lato, poprzednik Halloween?",
+				"answer": "Samhain"
+			},
+			{
+				"question": "Jak nazywa się meksykańskie święto zmarłych?",
+				"answer": "Día de los Muertos"
+			},
+			{
+				"question": "Jakie kwiaty najczęściej kładzie się na grobach w Polsce?",
+				"answer": "Chryzantemy"
+			},
+			{
+				"question": "Jakiego koloru jest tradycyjny strój wiedźmy?",
+				"answer": "Czarny"
+			},
+			{
+				"question": "Jak nazywa się noc, w której dusze zmarłych wracają do świata żywych?",
+				"answer": "Dziady"
+			},
+			{
+				"question": "Jakie jedzenie często pojawia się na meksykańskich ołtarzach Día de los Muertos?",
+				"answer": "Pan de muerto"
+			},
+			{
+				"question": "Jak nazywa się kraj, w którym Halloween jest najpopularniejsze?",
+				"answer": "Stany Zjednoczone"
+			},
+			{
+				"question": "Jak nazywa się listopadowe święto czarownic w Niemczech?",
+				"answer": "Walpurgisnacht"
+			},
+			{
+				"question": "Jakie kolory kojarzą się z Halloween?",
+				"answer": "Pomarańczowy i czarny"
+			},
+			{
+				"question": "Jak nazywa się symbol duszy w Halloween, umieszczany w dyni?",
+				"answer": "Światło Jacka"
+			}
+		],
+		"300": [
+			{
+				"question": "Jak nazywał się duch z legendy o Jacku z latarni?",
+				"answer": "Stingy Jack"
+			},
+			{
+				"question": "Jakie owoce używano w dawnych wróżbach halloweenowych?",
+				"answer": "Jabłka"
+			},
+			{
+				"question": "Jak nazywa się tradycja wróżenia w Andrzejki?",
+				"answer": "Lanie wosku"
+			},
+			{
+				"question": "Z jakiego materiału dawniej robiono maski na Halloween?",
+				"answer": "Z kory i drewna"
+			},
+			{
+				"question": "Jakie imię nosi słowiański duch, który przychodzi po jedzenie podczas Dziadów?",
+				"answer": "Dziad"
+			},
+			{
+				"question": "Jak nazywa się celtycka bogini związana z Samhain?",
+				"answer": "Morrigan"
+			},
+			{
+				"question": "Co symbolizuje zapalona świeca w oknie w noc z 31 października?",
+				"answer": "Drogę dla dusz"
+			},
+			{
+				"question": "Jakie zwierzę uważane było za towarzysza czarownicy?",
+				"answer": "Kot"
+			},
+			{
+				"question": "Jak nazywa się rytuał rozmowy z duchami zmarłych?",
+				"answer": "Seans spirytystyczny"
+			},
+			{
+				"question": "Jakie owoce są tradycyjną przekąską Halloween?",
+				"answer": "Karmelowe jabłka"
+			}
+		],
+		"400": [
+			{
+				"question": "Jak nazywa się staropolski zwyczaj odwiedzania domów i śpiewania za dusze zmarłych?",
+				"answer": "Pochód dziadów"
+			},
+			{
+				"question": "Jak nazywa się irlandzka legenda o mężczyźnie, który przechytrzył diabła?",
+				"answer": "Legenda o Jacku z latarni"
+			},
+			{
+				"question": "Jakie znaczenie ma czarna świeca w rytuałach Halloween?",
+				"answer": "Ochrona przed złymi duchami"
+			},
+			{
+				"question": "Z jakim bogiem łączy się Samhain w mitologii celtyckiej?",
+				"answer": "Dagda"
+			},
+			{
+				"question": "Jak nazywa się słowiańskie bóstwo podziemi?",
+				"answer": "Weles"
+			},
+			{
+				"question": "Jak nazywa się tradycja karmienia duchów w Dziady?",
+				"answer": "Dziady jesienne"
+			},
+			{
+				"question": "Jak nazywa się noc zmarłych w kulturze celtyckiej?",
+				"answer": "Samhain"
+			},
+			{
+				"question": "Jakie znane święto ma swoje korzenie w rzymskim Parentalia?",
+				"answer": "Dzień Zmarłych"
+			},
+			{
+				"question": "Jakie tradycyjne jedzenie pojawia się na stołach w Dziady?",
+				"answer": "Kutia"
+			},
+			{
+				"question": "Jak nazywa się stara tradycja rozpalania ognia, by odstraszyć duchy?",
+				"answer": "Ogniska Samhain"
+			}
+		],
+		"500": [
+			{
+				"question": "Jak nazywa się celtycki bóg śmierci czczony w czasie Samhain?",
+				"answer": "Donar"
+			},
+			{
+				"question": "Jakie znaczenie miała dynia w dawnych wierzeniach Halloween?",
+				"answer": "Odstraszała złe duchy"
+			},
+			{
+				"question": "Jakie zwierzę w Halloween symbolizuje zły omen?",
+				"answer": "Sowa"
+			},
+			{
+				"question": "Jak nazywa się noc, w której granica między światem żywych i umarłych jest najcieńsza?",
+				"answer": "Samhain"
+			},
+			{
+				"question": "Jakie miejsce uważano za przejście między światami podczas Dziadów?",
+				"answer": "Rozstaje dróg"
+			},
+			{
+				"question": "Jak nazywa się starożytna ceremonia pogrzebowa Celtów?",
+				"answer": "Rytuał Samhain"
+			},
+			{
+				"question": "Jakie znane współczesne święto jest potomkiem Samhain?",
+				"answer": "Halloween"
+			},
+			{
+				"question": "Jakie znaczenie miały maski w obchodach Samhain?",
+				"answer": "Chroniły przed duchami"
+			},
+			{
+				"question": "Jakie tradycje przeniknęły z Dziadów do współczesnych Zaduszek?",
+				"answer": "Palenie świec i modlitwy za zmarłych"
+			},
+			{
+				"question": "Jakie jedzenie Celtowie składali duchom w ofierze podczas Samhain?",
+				"answer": "Ziarno i owoce"
+			}
+		]
+	},
+	"Fobie i zbrodnie": {
+		"100": [
+			{
+				"question": "Jak nazywa się lęk przed pająkami?",
+				"answer": "Arachnofobia"
+			},
+			{
+				"question": "Jak nazywa się słynny morderca z białą maską z filmu 'Krzyk'?",
+				"answer": "Ghostface"
+			},
+			{
+				"question": "Jak nazywa się lęk przed ciemnością?",
+				"answer": "Nyctofobia"
+			},
+			{
+				"question": "Jak nazywa się seryjny morderca z Londynu z XIX wieku?",
+				"answer": "Kuba Rozpruwacz"
+			},
+			{
+				"question": "Jak nazywa się klaun-morderca z filmu 'To'?",
+				"answer": "Pennywise"
+			},
+			{
+				"question": "Jak nazywa się fobia przed zamkniętymi przestrzeniami?",
+				"answer": "Klaustrofobia"
+			},
+			{
+				"question": "Jakie imię nosi znany fikcyjny kanibal z 'Milczenia owiec'?",
+				"answer": "Hannibal Lecter"
+			},
+			{
+				"question": "Jak nazywa się lęk przed wysokością?",
+				"answer": "Akrofobia"
+			},
+			{
+				"question": "Jak nazywa się słynny fikcyjny morderca noszący maskę hokejową?",
+				"answer": "Jason Voorhees"
+			},
+			{
+				"question": "Jak nazywa się lęk przed duchami?",
+				"answer": "Fazmofobia"
+			}
+		],
+		"200": [
+			{
+				"question": "Jak nazywa się lęk przed klaunami?",
+				"answer": "Koulrofobia"
+			},
+			{
+				"question": "Jak nazywa się seryjny morderca, który inspirował film 'Psychoza'?",
+				"answer": "Ed Gein"
+			},
+			{
+				"question": "Jak nazywa się fobia przed przestrzeniami otwartymi?",
+				"answer": "Agorafobia"
+			},
+			{
+				"question": "Jakie imię nosił morderca, który pisał listy do policji w San Francisco?",
+				"answer": "Zodiak"
+			},
+			{
+				"question": "Jak nazywa się lęk przed śmiercią?",
+				"answer": "Tanatofobia"
+			},
+			{
+				"question": "Jak nazywa się seryjny morderca, który zabijał kobiety w lasach USA?",
+				"answer": "Ted Bundy"
+			},
+			{
+				"question": "Jakie imię nosił kanibal z Milwaukee?",
+				"answer": "Jeffrey Dahmer"
+			},
+			{
+				"question": "Jak nazywa się fobia przed lalkami?",
+				"answer": "Pediophobia"
+			},
+			{
+				"question": "Jak nazywa się fikcyjny morderca atakujący we śnie?",
+				"answer": "Freddy Krueger"
+			},
+			{
+				"question": "Jakie imię nosiła mordercza panna młoda z legend miejskich?",
+				"answer": "Bloody Mary"
+			}
+		],
+		"300": [
+			{
+				"question": "Jak nazywa się lęk przed krwią?",
+				"answer": "Hemofobia"
+			},
+			{
+				"question": "Jakie imię nosił seryjny morderca zwany 'Klaunem zabójcą'?",
+				"answer": "John Wayne Gacy"
+			},
+			{
+				"question": "Jak nazywa się fobia przed zwłokami?",
+				"answer": "Necrofobia"
+			},
+			{
+				"question": "Jakie imię nosił kanibal z filmu 'Texas Chainsaw Massacre'?",
+				"answer": "Leatherface"
+			},
+			{
+				"question": "Jak nazywa się fobia przed lustrami?",
+				"answer": "Eisoptrofobia"
+			},
+			{
+				"question": "Jakie imię nosił morderca znany z listów podpisywanych 'Your Humble Servant'?",
+				"answer": "Kuba Rozpruwacz"
+			},
+			{
+				"question": "Jakie imię nosił morderca z filmu 'Siedem'?",
+				"answer": "John Doe"
+			},
+			{
+				"question": "Jak nazywa się fobia przed dotykiem?",
+				"answer": "Hafefobia"
+			},
+			{
+				"question": "Jak nazywa się seryjny morderca, który był lekarzem?",
+				"answer": "Harold Shipman"
+			},
+			{
+				"question": "Jak nazywa się lęk przed robakami?",
+				"answer": "Entomofobia"
+			}
+		],
+		"400": [
+			{
+				"question": "Jakie imię nosił seryjny morderca nazywany 'Zabójcą z Green River'?",
+				"answer": "Gary Ridgway"
+			},
+			{
+				"question": "Jak nazywa się fobia przed klaunami używana w filmach grozy?",
+				"answer": "Koulrofobia"
+			},
+			{
+				"question": "Jakie imię nosił morderca znany z filmu 'American Psycho'?",
+				"answer": "Patrick Bateman"
+			},
+			{
+				"question": "Jak nazywa się fobia przed laleczkami voodoo?",
+				"answer": "Voodoofobia"
+			},
+			{
+				"question": "Jak nazywa się seryjny morderca inspirowany Biblią?",
+				"answer": "David Berkowitz"
+			},
+			{
+				"question": "Jak nazywa się lęk przed ciemnymi, zamkniętymi pomieszczeniami?",
+				"answer": "Klaustrofobia"
+			},
+			{
+				"question": "Jakie imię nosił seryjny morderca znany jako 'Zabójca z Milwaukee'?",
+				"answer": "Jeffrey Dahmer"
+			},
+			{
+				"question": "Jakie imię nosił morderca, który używał piły łańcuchowej?",
+				"answer": "Leatherface"
+			},
+			{
+				"question": "Jak nazywa się lęk przed cmentarzami?",
+				"answer": "Koimetrofobia"
+			},
+			{
+				"question": "Jak nazywa się fobia przed byciem obserwowanym?",
+				"answer": "Skopofobia"
+			}
+		],
+		"500": [
+			{
+				"question": "Jakie imię nosił seryjny morderca, który wysyłał listy szyfrem do prasy?",
+				"answer": "Zodiak"
+			},
+			{
+				"question": "Jak nazywa się lęk przed śmiercią bliskich?",
+				"answer": "Thanatofobia"
+			},
+			{
+				"question": "Jakie imię nosił seryjny morderca działający w Rosji w latach 80.?",
+				"answer": "Andriej Czikatiło"
+			},
+			{
+				"question": "Jak nazywa się fobia przed śmiercią?",
+				"answer": "Tanatofobia"
+			},
+			{
+				"question": "Jakie imię nosił fikcyjny morderca z maską z 'Halloween'?",
+				"answer": "Michael Myers"
+			},
+			{
+				"question": "Jak nazywa się seryjny morderca zwany 'Zabójcą z Północy'?",
+				"answer": "Dennis Rader (BTK)"
+			},
+			{
+				"question": "Jakie imię nosił morderca, który zabijał kobiety w Wisconsin i robił z ich skóry ubrania?",
+				"answer": "Ed Gein"
+			},
+			{
+				"question": "Jak nazywa się fobia przed byciem pochowanym żywcem?",
+				"answer": "Tafefobia"
+			},
+			{
+				"question": "Jakie imię nosił fikcyjny morderca z piłą mechaniczną?",
+				"answer": "Leatherface"
+			},
+			{
+				"question": "Jak nazywa się fobia przed klaunami, która nasiliła się po filmie 'To'?",
+				"answer": "Koulrofobia"
+			}
+		]
+	}
+}

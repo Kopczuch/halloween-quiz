@@ -1,0 +1,12 @@
+.category-container {
+	padding-left: 50px;
+	padding-right: 50px;
+	width: 400px;
+	text-align: center;
+}
+	
+.quiz-grid {
+	display: flex;
+	flex-direction: column;
+}
+	
