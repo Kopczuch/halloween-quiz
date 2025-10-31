@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/halloween-quiz/static/css/main.a3932f22.css",
+    "main.js": "/halloween-quiz/static/js/main.f62ab860.js",
+    "static/js/453.90a82739.chunk.js": "/halloween-quiz/static/js/453.90a82739.chunk.js",
+    "index.html": "/halloween-quiz/index.html",
+    "main.a3932f22.css.map": "/halloween-quiz/static/css/main.a3932f22.css.map",
+    "main.f62ab860.js.map": "/halloween-quiz/static/js/main.f62ab860.js.map",
+    "453.90a82739.chunk.js.map": "/halloween-quiz/static/js/453.90a82739.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3932f22.css",
+    "static/js/main.f62ab860.js"
+  ]
+}
